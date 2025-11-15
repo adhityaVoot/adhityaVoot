@@ -12,6 +12,8 @@ I’m a Data Science major passionate about building AI-driven tools, experiment
 - 🤖 Exploring AI/ML techniques like LSTMs, XGBoost, and computer vision  
 - ⚙️ Strengthening my foundations in DSA (Python, Java, C++)
 
+- Current Postion: Data Analyst & Buisness Development Intern @ Kaye/Bassman. Incoming Analyst Intern @ Wells Fargo
+
 ✨ Fun Fact: I am big into tennis, football, and cricket! And I love attending hackatons and building random ideas into actual products. 
 
 💼 How to Reach Me:
