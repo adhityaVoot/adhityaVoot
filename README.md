@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👋 Hi, I’m Adhitya Vootukuru!
 
 I’m a Data Science major passionate about building AI-driven tools, experimenting with new technologies, and creating products that make real-world impact.
@@ -19,4 +19,4 @@ I’m a Data Science major passionate about building AI-driven tools, experiment
 - 🔗 **LinkedIn:** linkedin.com/in/adhitya-vootukuru/  
 - 📫 **Email:** adhityav257@gmail.com  
 
--->
+
